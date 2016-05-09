@@ -1,0 +1,31 @@
+1. A variable is like a box for some sort of data. The name of the game for most programmers is to manage the flow of data, or the flow of information and create experiences with that flow, so variables are our main tools to do that.
+
+2. Ruby figures out what's in first_name and last_name and then concatenates them together and assigns that value to a variable named full_name, that value would be: "AbrahamLincoln" with no space.
+
+3. string: you could store the gender type of a user in here
+integer: this could be the number of successful hikes completed by a user of your hiking social media site
+float: you could store the mileage hiked by a user on a specific day
+nil: this could also be the value stored in the gender type of a user who declines to specify their gender type
+boolean: this could be the value of a property associated with a user for if they'd like to allow their email address to be shared with other users on your super awesome hiking social media website.
+
+4. An algorithm is like a cookbook for doing anything. It could be a cookbook for finding some specific item in a list, or a cookbook for finding the most efficient way to connect carpoolers together but the point is that there exists some repeatable set of instructions to accomplish the same or similar problems. 
+
+5. Two common categories are searching and sorting algorithms. 
+
+6. A method is an organized chunk of code that does some specific task. It's useful because it helps programs employ the principle of DRY which means don't repeat yourself, that way your code stays powerful and flexible.
+
+7. return value - is what the method returns
+side effect - is other things that can be changed along the way while a method is running
+parameter - are where you define what kinds of variables are going to be talking to your method
+argument - are the things that are actually talking to your method when you call them, so the parameters define what the arguments are going to be doing when they get passed.
+implicit return - is a a concept in ruby where everything returns something
+
+8. Global scope is like everyone in the program can know about this particular variable or method, while method scope or local scope is like only specific methods can know about it, that is the variable is "not in the scope" of some methods, while it is "inside the scope of" other methods. Scope impacts availability of variables because it is basically the way in which we can become aware of who gets access to what variables...so basically, it totally affects availability.
+
+9. Control flow is a term that represents what kind of logical flow a program will take depending on the values of certain variables, the actions of a user, or the events that occur in a system. A program can use control flow to design programs that respond to users in a dynamic and awesome way.
+
+10. loop - is something that will be repeated until a certain condition is met or not met
+if - check if one specific condition is met and will execute some code if that condition is met.
+else - is something that we can use to link together with an if statement to respond to the situation in which the condition being checked is not met
+while - while is a type of loop that says basically "keep doing something as long as this condition is met"
+until - until is a type of loop that says basically "keep doing something until a specific condition gets met"
