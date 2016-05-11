@@ -1,0 +1,18 @@
+1. Data structures are useful because they can help use keep our data organized and can be used to sort and search for data effectivley.
+
+2. an array is like a big wall of cubby holes with someone inside and a numberical index number starting at zero all the way up to length-1 
+
+3. two things you might want to keep in arrays are a list of all the names of hikes local to a national park. Or you might want to keep a list of all the users playing your rad farm ville knockoff
+
+4. a hash is just like an array except that insead of an index it has a custom key to be associated with the value which is the thing inside the cubby hole.
+
+5. you could keep a parts list in a hash, with the part being the key and the price being the value. Or you a recipe with the ingredients as the key and the weight as the value.
+
+6. Iteration is useful because it lets us do repetative things quickly and easily.
+
+7. A real life task that requires iteration if you wrote the algorthimg could be painting a white picket fence: up, down, dip, repeat.
+
+8. a block is a chunk of code that we can pass to methods
+
+9. a block parameter an argument that lives inside the block's scope and can be used in different contexts to bring useful values from outside the block into the block and then do useful operations.
+

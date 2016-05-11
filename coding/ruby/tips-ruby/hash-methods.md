@@ -3,13 +3,20 @@
 * Creating a hash different ways
 
 ```ruby
+# rocket syntax
 grades = { "Jane Doe" => 10, "Jim Doe" => 6 }
 options = { :font_size => 10, :font_family => "Arial" }
+
+# : syntax
 options = { font_size: 10, font_family: "Arial" }
 options[:font_size]  # => 10
+
+# initialize a hash
 grades = Hash.new
 grades["Dorothy Doe"] = 9
 grades = Hash.new(0) # setting a default value that probably not nil
+
+# another rocket syntax
 grades = {"Timmy Doe" => 8}
 grades.default = 0
 books         = {}
