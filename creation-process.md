@@ -6,3 +6,6 @@
 * naming/title convention for bookmarks
 * how do I write scripts for sublime or google?
 * note taking workspace
+
+## AdvancedNewFile Notes
+* when tabbing through can we have the / be included so you can start typing the name right away
