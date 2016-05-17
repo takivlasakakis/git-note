@@ -60,7 +60,7 @@
 ```ruby
 number = "925-228-2620"
 re = /
-\d{3} # area code
+\d{3} # arcode
 -\d{3} # other part, just showing comments
 -\d{4} # another comment
 /x 
