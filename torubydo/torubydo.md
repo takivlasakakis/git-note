@@ -1,1 +1,1 @@
-- [ ] some item
+- [x] some item
