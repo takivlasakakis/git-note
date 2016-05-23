@@ -8,3 +8,5 @@
 
 * with multiple lists I could create a calendar workflow like straight a student mixed with trello mixed with todotxt
 * eventually maybe a better editor but it still always translates to text and markdown
+
+* note that iTerm has timestamps I could use that with to figure out when the notes were added
