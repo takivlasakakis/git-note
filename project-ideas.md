@@ -1,6 +1,6 @@
 ### Project Ideas
 
-#### ToDo List
+#### ToDo List (ToRubyDo or SwitchApp)
 
 * Todo list that flows forward and backward and behaves like a tree
   * And it keeps time while your on each node so you can get analytics on what your doing
@@ -28,8 +28,17 @@
   * I could write an alfred workflow to parses the bookmarks
   * 
 
-### iPhone App ideas
+#### iPhone App ideas
 
 * markdown viewer/editor on github
 * convert from decimal to 1/16 in
 * interval timer
+    * let the app talk to google sheets to keep track of metrics
+* Cooking timer
+
+#### Connect scale to internet
+* track weight of things
+* maybe connect arduino to scale
+
+#### Write an apple script to respond imessage
+* like away messages except specifically for Jenny.

@@ -10,3 +10,4 @@
 * eventually maybe a better editor but it still always translates to text and markdown
 
 * note that iTerm has timestamps I could use that with to figure out when the notes were added
+* note found [a way](http://stackoverflow.com/questions/37364722/how-do-i-add-inline-comments-in-github-flavored-markdown?noredirect=1#comment62243032_37364722) to include comments and then potentially metadata into notes

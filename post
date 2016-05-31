@@ -1,0 +1,34 @@
+I'm writing in regards to a [recent post](http://graphicdesign.stackexchange.com/questions/71644/what-are-the-shortcuts-or-commands-to-hide-and-delete-a-layer-in-illustrator/71682#71682) and specifically the two comments from Luciano and Vincent as well as Luciano's response to my comment (the response is undocumented because Ryan deleted it). Luciano's and Vincent's original comments can be found below, however I wasn't able to take a screen shot of Luciano's response to my comment because it was deleted, but I will give the gist from memory as recommended by Ryan.
+[![enter image description here][1]][1]
+
+There are two main issues I would like to get input on:
+
+1. I think the question is legitimate. If I have a question about Git or Sublime I ask it in the programming section because they are tools for programming, in a similar way I think it makes sense that if I have a question about Illustrator I would ask it in the graphic design section because it is a tool for graphic design. Further, despite searching through [the documentation](https://helpx.adobe.com/illustrator/using/layers.html) for Illustrator there is no mention about whether or not you can use a shortcut to hide/unhide/change the visibility of a layer, it would make sense for a shortcut to exist given there are [keyboard shortcuts](https://helpx.adobe.com/illustrator/using/default-keyboard-shortcuts.html) to create and delete layers. Also there is [a post](http://graphicdesign.stackexchange.com/questions/37318/keyboard-shortcut-to-hide-selected-layers-in-photoshop?rq=1), in the Graphic Design section asking about shortcuts in Photoshop (it makes sense that an experienced member like Carl Edwards would ask about shortcuts in photoshop in the graphic design section because photoshop is a tool that graphic designers use...kind of like illustrator), interestingly the question is 
+
+> "Similar to Illustrator, is there something like CMD + 3 that would
+> let me hide selected layers?"
+
+ which would probably encourage any reasonable person new to illustrator and searching for a way to toggle the visibility of layers on/off to 1) Try that keyboard shortcut in Illustrator (it doesn't work) 2) continue to believe that it is possible to toggle the visibility of layers on/off and think they must be missing something and 3) ask a question about it. 
+As a side-note:
+[![enter image description here][2]][2]
+
+2. More importantly. I think both Luciano's and Vincent's comments are rude, degrading, and generally foster a worst environment for the developer community. Which is directly at odds with what [SE is all about](http://stackexchange.com/legal). When I responded to them both and drew attention to their comments Luciano deleted his original comment and responded by saying that he/she was "just suggesting that the question might be off-topic" and he/she failed to see how his/her comment was rude and then courteously directed my attention to the section of SE explaining that comments are for constructive criticism and discussion of the minor details about the original question. As stated in my original response I didn't think it was rude to suggest that my question was off topic, I am new to the Graphic Design section and I need to learn about what is on/off topic and one way is by getting feedback from people. However, I don't think the comment 
+
+> "I was actually hoping this question would be closed as off-topic,
+> that's why I didn't bother" - Luciano
+
+ is an example of "just suggesting that the question might be off-topic" I think it's an example of a comment that is not inline with [SE TOS](http://stackexchange.com/legal) because it is not "treat[ing] our service and community with respect" because it is not a kind and respectful comment, instead it is disrespectful and potentially hurtful, I think the same can be said for Vincent's comment: 
+
+> Apparently, there is a demand for answers to questions like these. _shrug_ - Vincent
+
+I think this comment is disrespectful and potentially hurtful because it is probably sarcastic and treats the question in a dismissive way, essentially suggesting the question is not worth anyone's time.
+
+I'm familiar with the culture of Stack Exchange where experienced members become too burdened to answer repeated questions and decide to start telling people to RTFM or send gifs of typing the question into google. It makes sense that a member, especially a moderator, would become frustrated by seeing the same questions repeated. However, I think if a question has been asked many times then simply linking to the answer or closing the topic is the kind way to go, the fact that some people choose to belittle the OP is a bummer because it creates a mean-spirited environment for people who are new to a field of study, like graphic design for example, and generally trying to have fun and learn new things. But, I don't believe this question falls into the category of an "age old question that could have just been answered with google or by searching the forums" because of the reasons given above, and, I think it deserved a respectful response in the same way that this [similar question](http://graphicdesign.stackexchange.com/questions/37318/keyboard-shortcut-to-hide-selected-layers-in-photoshop?rq=1) by a more experienced member received a respectful response.
+
+I'm currently unable to flag their comments because between Luciano and the moderators the comments I'm discussing have been hidden. Further, the user that made one of the comments is a moderator. I would appreciate 1) If someone from Stack Exchange commented in this specific post and pointed out that the member Luciano and Vincent are not inline with the [Terms of Service](http://stackexchange.com/legal/terms-of-service) because they are not " treat[ing] our service and community with respect". Further I would like some form of action taken against Vincent because he/she is breaking his/her [agreement as a moderator](http://stackoverflow.com/legal/moderator-agreement) by choosing to make comments that don't treat other members with respect.
+
+Looking forward to hearing your thoughts.
+
+
+  [1]: http://i.stack.imgur.com/74axn.png
+  [2]: http://i.stack.imgur.com/VcStQ.png
