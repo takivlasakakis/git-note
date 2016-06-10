@@ -42,3 +42,9 @@
 
 #### Write an apple script to respond imessage
 * like away messages except specifically for Jenny.
+
+#### youtube-dl and scripting and terabytes!!
+* get a external hard drive
+* back everything up
+* start indexing youtube
+ * write scripts to automate
