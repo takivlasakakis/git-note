@@ -50,3 +50,9 @@
 * need to test if the uni unicode bars like ─ ┬ will render in markdown
 
 #### use a simple symbol to somehow encode meta information about title, date, subtitle folder etc. for paper notes that are scanned
+
+#### youtube-dl and scripting and terabytes!!
+* get a external hard drive
+* back everything up
+* start indexing youtube
+ * write scripts to automate
