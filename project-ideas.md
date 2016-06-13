@@ -42,3 +42,11 @@
 
 #### Write an apple script to respond imessage
 * like away messages except specifically for Jenny.
+
+#### make a text-mode editor like:
+* http://asciiflow.com/
+* it could render in markdown so you could have links in the labels
+* it could be a whole new way to make documentation
+* need to test if the uni unicode bars like ─ ┬ will render in markdown
+
+#### use a simple symbol to somehow encode meta information about title, date, subtitle folder etc. for paper notes that are scanned
