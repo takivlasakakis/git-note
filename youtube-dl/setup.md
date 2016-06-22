@@ -1,0 +1,1 @@
+-o '/my/downloads/%(uploader)s/%(title)s-%(id)s.%(ext)s'

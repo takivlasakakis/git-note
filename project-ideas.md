@@ -1,5 +1,13 @@
 ### Project Ideas
 
+#### Alfred workflow to search through bookmarks in pdfs!!!
+
+#### Interval timer
+* simple interval timer
+* connects to: web app, arduino, iphone
+* lets you make predicted times and compare to expected
+* gives good data
+
 #### ToDo List (ToRubyDo or SwitchApp)
 
 * Todo list that flows forward and backward and behaves like a tree
@@ -32,8 +40,7 @@
 
 * markdown viewer/editor on github
 * convert from decimal to 1/16 in
-* interval timer
-    * let the app talk to google sheets to keep track of metrics
+
 * Cooking timer
 
 #### Connect scale to internet
@@ -56,3 +63,6 @@
 * back everything up
 * start indexing youtube
  * write scripts to automate
+
+#### Start working on whiteboarding and interview stuff
+* Cracking the Coding Interview
