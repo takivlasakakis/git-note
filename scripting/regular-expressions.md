@@ -1,3 +1,5 @@
+`([^"]+)` - any character not a `"`, so up until a quote, grouped into the `$1` variable
+
 ### Regular Expressions
 
 `.` - any character

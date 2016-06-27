@@ -3,6 +3,13 @@
 console commands - have a period like `.tables` and **no semicolon**
 SQL query - no period and **do have a semicolon** 
 
+#### some example of join
+
+```sql
+SELECT * FROM comments, users WHERE comments.user_id = users.id AND users.name = "Pax";
+```
+
+
 **select, insert, and update**
 ```
 select * from rabbits
